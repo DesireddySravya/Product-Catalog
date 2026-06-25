@@ -1,0 +1,7 @@
+product_id,product_name,category,price,description,stock_status
+101,Wireless Mouse,Electronics,24.99,Compact wireless mouse with ergonomic design,Available
+102,Noise-Cancelling Headphones,Electronics,129.99,Over-ear headphones with active noise cancellation,Not Available
+103,Stainless Steel Water Bottle,Home & Kitchen,19.95,Insulated bottle keeps drinks cold or hot for hours,Available
+104,Office Desk Organizer,Office Supplies,15.50,Multi-compartment desk organizer for pens and notes,Available
+105,LED Desk Lamp,Home & Kitchen,39.99,Adjustable brightness lamp with USB charging port,Out of Stock
+106,Smart Phone Stand,Accessories,11.25,Adjustable phone stand for desks and nightstands,Available
